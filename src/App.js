@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import { Navbar, NavbarBrand } from 'reactstrap';
 import Directory from './components/DirectoryComponent';
 import { CAMPSITES } from './shared/campsites';
+import 'typeface-lobster';
+import 'typeface-open-sans';
 import './App.css';
 
 class App extends Component {
