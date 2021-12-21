@@ -24,7 +24,7 @@ class Main extends Component {
             return (
                 <Home />
             );
-
+        }
 
         return (
             <div>
