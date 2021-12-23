@@ -23,7 +23,7 @@ function RenderDirectoryItem({campsite}) {
                 </CardImgOverlay>
             </Link>
         </Card>
-
+    )}
 function Directory(props) {
 
     const directory = props.campsites.map(campsite => {
