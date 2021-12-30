@@ -17,7 +17,7 @@ class Header extends Component {
         };
 
         this.toggleNav = this.toggleNav.bind(this);
-        this.togleModal = this.toggleModal.bind(this);
+        this.toggleModal = this.toggleModal.bind(this);
         this.handleLogin = this.handleLogin.bind(this);
 
     }
