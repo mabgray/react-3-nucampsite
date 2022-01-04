@@ -2,16 +2,7 @@ import React from 'react';
 import { Card, CardImg, CardImgOverlay, CardTitle, Breadcrumb, BreadcrumbItem } from 'reactstrap';
 import { Link } from 'react-router-dom';
 
-/* function RenderDirectoryItem({campsite, onClick}) {
-    return (
-        <Card>
-            <CardImg width="100%" src={campsite.image} alt={campsite.name} />
-            <CardImgOverlay>
-                <CardTitle>{campsite.name}</CardTitle>
-            </CardImgOverlay>
-        </Card>
-    );
-} */
+
 
 function RenderDirectoryItem({campsite}) {
     return (
